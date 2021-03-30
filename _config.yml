@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: 민웅쌤
+subtitle: 교육이라는 단어에 아직도 가슴이 뛰는 사람.
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -27,12 +27,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author: 민웅쌤
+author_bio: 교육이라는 단어에 아직도 가슴이 뛰는 사람입니다.
+author_email: "kmw5145@naver.com"
+author_location: Korea
+author_website_url: "https://blog.naver.com/kmw5145"
+typewrite-text:계룡디지텍고등학교 지능형사물인터넷 동아리입니다.
 
 # Experiences
 author_work_experiences:
@@ -72,16 +72,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: null
+github_username: null
+facebook_username: null
+linkedin_username: null
+behance_username: null
+instagram_username: null
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
