@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 기술과 교육 이야기
+title: Edu
 permalink: /blog/categories/Edu/
 ---
 
