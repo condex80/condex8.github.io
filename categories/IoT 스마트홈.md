@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll
-permalink: /blog/categories/jekyll/
+title: IoT 스마트홈
+permalink: /blog/categories/Iot 스마트홈/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
