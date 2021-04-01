@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Edu
-permalink: /blog/categories/Edu/
+title: 기술과 교육 이야기
+permalink: /blog/categories/기술과 교육 이야기/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
