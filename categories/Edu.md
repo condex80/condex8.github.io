@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll
-permalink: /blog/categories/jekyll/
+title: 기술과 교육 이야기
+permalink: /blog/categories/Edu/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
