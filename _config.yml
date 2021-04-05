@@ -155,7 +155,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-menus
+  - jekyll-algolia
 
+# algolia search
+algolia:
+  application_id: 7NZJL7GNUS
+  index_name: condex # You can replace that with whatever name you want
+  files_to_exclude: []
+  nodes_to_index: 'article'
+  search_only_api_key: 70eb74e98cc941afb39ba21b9e5a68ea
 
 # Exclude from processing.
 # The following items will not be processed, by default.
