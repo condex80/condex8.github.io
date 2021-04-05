@@ -17,8 +17,8 @@ urls:
       url: /gallery
 #    - text: Shop
 #      url : /shop
-    - text: Contact
-      url : /contact
+#    - text: Contact
+#      url : /contact
 #    - text: Styleguide
 #      url: /styleguide
 #    - text: Get Started
@@ -121,12 +121,12 @@ paginate_path: "/blog/page/:num/"
 #     envs: ['development']
 
 # Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/categories/:name/'
 
 collections:
   products:
