@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IoT smart
-permalink: /blog/categories/Iot smart/
+title: IoT
+permalink: /blog/categories/Iot/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
