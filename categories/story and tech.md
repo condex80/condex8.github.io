@@ -1,7 +1,7 @@
 ---
 layout: page
-title: story of tech
-permalink: /blog/categories/story of tech/
+title: story
+permalink: /blog/categories/story/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
